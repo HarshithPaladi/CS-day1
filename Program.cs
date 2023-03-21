@@ -5,6 +5,8 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello");
+            int a = 12;
+            Console.WriteLine(a); //From Visual Studio
         }
     }
 }
